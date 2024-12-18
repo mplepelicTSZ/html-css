@@ -1,0 +1,6 @@
+table{border-collapse: collapse; width:100%; }
+table,th,td{border:2px dashed blue;}
+ td{
+     height:50px;
+     text-align: right;
+ vertical-align: bottom}

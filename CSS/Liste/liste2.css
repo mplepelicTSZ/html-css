@@ -1,0 +1,4 @@
+ol{background:green}
+ul{background:blue}
+ol li{background:grey}
+ol{list-style-image: url('ImgDir/ikona.jpg')}
